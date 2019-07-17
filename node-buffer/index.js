@@ -52,6 +52,6 @@ let buff6 = buff5.slice(0, 3);
 console.log(buff6.toString());
 console.log(buff5.toString());
 
-buff6.write('xxxx');
+buff6.write('Foo');
 console.log(buff6.toString())
 console.log(buff5.toString())
